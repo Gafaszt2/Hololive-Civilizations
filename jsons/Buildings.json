@@ -7,6 +7,40 @@
 			"Hidden when [Fame] Victory is disabled", "Cannot be hurried"]
 	},
 {
+		"name": "Military Training Facility",
+                "uniqueTo": "Modern Strike",
+	        "replaces": "Military Academy",
+		"hurryCostModifier": 0,
+		"production": 1,
+		"requiredBuilding": "Armory",
+		"uniques": ["New [Military] units start with [20] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Military Science"
+	},
+{
+		"name": "Fortification",
+                "uniqueTo": "Order of Shirogane",
+	        "replaces": "Castle",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["[+1 Culture] from [Fort] tiles [in this city]","Destroyed when the city is captured"]
+	},
+{
+		"name": "Robot Factory",
+                "uniqueTo": "Robotic Federation",
+	        "replaces": "Research Lab",
+		"science": 2,
+                "production": 3,
+                "faith": 2,
+		"percentStatBonus": {"science": 50},
+		"specialistSlots": {"Scientist": 1},
+		"requiredBuilding": "Public School",
+		"maintenance": 2,
+		"requiredTech": "Plastics"
+	},
+{
         "name": "Subatomo Station",
         "uniqueTo": "Feather",
 	"replaces": "Police Station",

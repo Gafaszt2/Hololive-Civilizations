@@ -1,5 +1,105 @@
 [
 {
+		"name": "Modern Strike",
+		"leaderName": "Shishiro Botan",
+		"adjective": ["Strike"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "Until none of your people remain!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Heia!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [219, 242, 174],
+		"innerColor": [94, 84, 73],
+		"uniqueName": "Wealth isn't measured with money",
+		"uniques": ["[+1 Production] from every [Farm] <starting from the [Modern era]>","[-1 Gold] from all [Gold] buildings","[+1 Production] from all [Production] buildings"],
+		"cities": ["Lazy Lion","La Lion","Pride","Mountains","Desolated Plains","Desert Villa"]
+	},
+{
+		"name": "Order of Shirogane",
+		"leaderName": "Shirogane Noel",
+		"adjective": ["Castle"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "Until none of your people remain!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Heia!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [31, 27, 27],
+		"innerColor": [252, 62, 56],
+		"uniqueName": "Kon-Muscle",
+		"uniques": ["[+20]% [Production] [in all cities] <during the [Medieval era]>","[+1 Production] from every [Lumber mill] <starting from the [Medieval era]>","[+1 Production] from every [Mine] <starting from the [Medieval era]>"],
+		"cities": ["Saxonia","Teotonia","Princess Castle","Germanic Sword","New Dream","Muscle Gym"]
+	},
+{
+		"name": "Robotic Federation",
+		"leaderName": "Robocco",
+		"adjective": ["Robot"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [92, 92, 91],
+		"innerColor": [252, 158, 81],
+		"uniqueName": "Harobo",
+		"uniques": ["[+1 Production] from every [Mine] <starting from the [Classical era]>","[+1 Production] from every [Mine] <starting from the [Medieval era]>","[+1 Production] from every [Mine] <starting from the [Modern era]>"],
+		"cities": ["Fiction","Robot´s Craddle","Factory","Industry","Mechanical","Chips"]
+	},
+{
+		"name": "Garlic Empire",
+		"leaderName": "Murasaki Shion",
+		"adjective": ["Garlic"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [36, 36, 35],
+		"innerColor": [204, 121, 224],
+		"uniqueName": "Mage of Violet",
+		"uniques": ["[+2 Culture] from every [Forest]","[+2 Culture] from every [Forest] <starting from the [Modern era]>","Provides [3] [Fame] <upon constructing [Stonhenge]>"],
+		"cities": ["Kusogaki","Cinderella","Spoland","Magical","Spectres","Forestial"]
+	},
+{
 		"name": "Feather",
 		"leaderName": "Oozora Subaru",
 		"adjective": ["Feather"],

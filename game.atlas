@@ -1,159 +1,299 @@
 
 game.png
-size: 2048, 512
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Comet Observatory
   rotate: false
-  xy: 1078, 398
+  xy: 1436, 886
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Final Concert
   rotate: false
-  xy: 1186, 398
+  xy: 1078, 420
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fortification
+  rotate: false
+  xy: 1186, 528
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Hologram Stadium
   rotate: false
-  xy: 1078, 182
+  xy: 220, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Military Training Facility
+  rotate: false
+  xy: 1294, 528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Robot Factory
+  rotate: false
+  xy: 220, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Subatomo Station
   rotate: false
-  xy: 1294, 290
+  xy: 1652, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Garlic Plantation
+  rotate: false
+  xy: 1544, 886
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/Hoshimachi Suisei
   rotate: false
-  xy: 4, 148
+  xy: 4, 636
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+LeaderIcons/Murasaki Shion
+  rotate: false
+  xy: 4, 278
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
 LeaderIcons/Omaru Polka
   rotate: false
-  xy: 362, 148
+  xy: 362, 636
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
 LeaderIcons/Oozora Subaru
   rotate: false
-  xy: 720, 148
+  xy: 362, 278
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+LeaderIcons/Robocco
+  rotate: false
+  xy: 720, 636
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+LeaderIcons/Shirogane Noel
+  rotate: false
+  xy: 720, 278
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+LeaderIcons/Shishiro Botan
+  rotate: false
+  xy: 1078, 636
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
 NationIcons/Feather
   rotate: false
-  xy: 1078, 290
+  xy: 112, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Garlic Empire
+  rotate: false
+  xy: 1436, 778
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Hologram Circus
   rotate: false
-  xy: 220, 40
+  xy: 112, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Modern Strike
+  rotate: false
+  xy: 1436, 670
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Order of Shirogane
+  rotate: false
+  xy: 1652, 886
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Robotic Federation
+  rotate: false
+  xy: 328, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Stellar
   rotate: false
-  xy: 328, 40
+  xy: 1294, 420
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Bad Influence
   rotate: false
-  xy: 4, 40
+  xy: 1078, 528
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Fame
   rotate: false
-  xy: 112, 40
+  xy: 4, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Videogames
   rotate: false
-  xy: 1402, 398
+  xy: 328, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Beach
+TileSets/FantasyHex/Tiles/Garlic Plantation
   rotate: false
-  xy: 4, 4
+  xy: 1652, 742
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Assistant
+  rotate: false
+  xy: 1294, 384
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hoshiyomi
   rotate: false
-  xy: 1402, 362
+  xy: 1760, 850
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Magical Cat
+  rotate: false
+  xy: 1868, 958
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Omaruza
   rotate: false
-  xy: 1510, 470
+  xy: 62, 26
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/SSRB
+  rotate: false
+  xy: 436, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Subatomo
   rotate: false
-  xy: 436, 54
+  xy: 494, 242
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Teutonic Knight
+  rotate: false
+  xy: 1294, 348
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Assistant
+  rotate: false
+  xy: 4, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Hoshiyomi
   rotate: false
-  xy: 1186, 290
+  xy: 1078, 312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Magical Cat
+  rotate: false
+  xy: 1186, 420
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Omaruza
   rotate: false
-  xy: 1294, 398
+  xy: 1544, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/SSRB
+  rotate: false
+  xy: 1186, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Subatomo
   rotate: false
-  xy: 1186, 182
+  xy: 1544, 670
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Teutonic Knight
+  rotate: false
+  xy: 1760, 886
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Fennec
   rotate: false
-  xy: 436, 90
+  xy: 4, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Stargazer
   rotate: false
-  xy: 1294, 232
+  xy: 436, 220
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
