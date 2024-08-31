@@ -7,6 +7,97 @@
 			"Hidden when [Fame] Victory is disabled", "Cannot be hurried"]
 	},
 {
+		"name": "Formation School",
+                "uniqueTo": "HoloX Operations",
+	        "replaces": "Public School",
+		"science": 3,
+                "production": 2,
+		"specialistSlots": {"Scientist": 1},
+		"requiredBuilding": "University",
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Scientific Theory"
+	},
+{
+		"name": "HoloX Harbor",
+                "uniqueTo": "Underground",
+	        "replaces": "Harbor",
+		"cost": 120,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Culture] from [Coast] tiles [in this city]","[+1 Production] from [Water resource] tiles [in this city]",
+			"Connects trade routes over water","Must be next to [Coast]"],
+		"requiredTech": "Compass"
+	},
+{
+		"name": "HoloX Auditory",
+                "uniqueTo": "Hawk Wings",
+	        "replaces": "National College",
+		"cost": 125,
+		"science": 3,
+		"culture": 3,
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 50},
+		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [20] per owned city"],
+		"requiredTech": "Philosophy"
+	},
+        {
+		"name": "HoloX Embassy",
+                "uniqueTo": "HoloX Operations",
+	        "replaces": "Monument",
+		"science": 2,
+		"cost": 80,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+        {
+		"name": "Genomic Farms",
+                "uniqueTo": "Poison",
+	        "replaces": "Granary",
+		"science": 1,
+		"maintenance": 4,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Science] from [Deer] tiles [in this city]",
+			"[+1 Science] from [Bananas] tiles [in this city]",
+			"[+1 Science] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+        {
+		"name": "Mind Control",
+                "uniqueTo": "Poison",
+	        "replaces": "Library",
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Happiness] per [2] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+        {
+		"name": "Uketsuke",
+                "uniqueTo": "Samurai Nation",
+	        "replaces": "Courthouse",
+		"maintenance": 2,
+                "faith": 2,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Jaakuna Haisui",
+                "uniqueTo": "Underground",
+	        "replaces": "Factory",
+		"cost": 360,
+		"production": 2,
+                "food": 4,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 5,
+		"hurryCostModifier": 0,
+		"requiredResource": "Coal",
+		"requiredTech": "Industrialization"
+	},
+{
 		"name": "Military Training Facility",
                 "uniqueTo": "Modern Strike",
 	        "replaces": "Military Academy",

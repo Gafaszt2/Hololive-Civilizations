@@ -1,5 +1,9 @@
 [
 {
+        "name": "Murder",
+        "uniques": ["No damage penalty for wounded units"],
+	},
+{
         "name": "Fennec",
         "uniques": ["Double movement in [Plains]","[+20]% Strength <when fighting in [Plains] tiles>"],
 	},

@@ -1,5 +1,130 @@
 [
 {
+		"name": "HoloX Operations",
+		"leaderName": "Laplus Darkness",
+		"adjective": ["Dark"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [28, 28, 28],
+		"innerColor": [237, 237, 237],
+		"uniqueName": "HoloX Founder",
+		"uniques": ["[-33]% maintenance cost for buildings [in all cities]","[+1 Production] from every [Strategic resource] <starting from the [Modern era]>","[+20]% Strength <for [Gunpowder] units>","Gifts of Gold to City-States generate [+10]% more Influence"],
+		"cities": ["HoloX","Skyscrapper","Center of Cruelty","Tyrany","New Dawn","Power of the Forbidden"]
+	},
+{
+		"name": "Poison",
+		"leaderName": "Hakui Koyori",
+		"adjective": ["Poison"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [99, 58, 84],
+		"innerColor": [252, 217, 240],
+		"uniqueName": "Kon Koyo",
+		"uniques": ["[+1 Science] from every [Snow]","[+1 Production] from every [Strategic resource] <starting from the [Modern era]>","[+1 Production] from every [Strategic resource]"],
+		"cities": ["Below Surface","Deep Cruelty","Oceanic Ground","Orca Palace","Money Statue","Oceanic Boundaries"]
+	},
+{
+		"name": "Underground",
+		"leaderName": "Sakamata Chloe",
+		"adjective": ["Underground"],
+		"startBias": ["Marsh"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [34, 43, 36],
+		"innerColor": [228, 237, 230],
+		"uniqueName": "Murderer",
+		"uniques": ["[-50]% maintenance cost for buildings [in all cities]","All newly-trained [Melee] units [in all cities] receive the [Murder] promotion"],
+		"cities": ["Below Surface","Deep Cruelty","Oceanic Ground","Orca Palace","Money Statue","Oceanic Boundaries"]
+	},
+{
+		"name": "Samurai Nation",
+		"leaderName": "Kazama Iroha",
+		"adjective": ["Samurai"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [110, 25, 67],
+		"innerColor": [255, 92, 172],
+		"uniqueName": "Stealth",
+		"uniques": ["[+50]% Strength <for [Sword] units>","[+1 Production] from every [Coast] <starting from the [Modern era]>","[+1 Production] from every [Atoll] <starting from the [Modern era]>"],
+		"cities": ["Shadow Island","Japanese Capitol","Samurai Redemption","Sweet Cuts","Her Throat","War Disease"]
+	},
+{
+		"name": "Hawk Wings",
+		"leaderName": "Takane Lui",
+		"adjective": ["Hawk"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [191, 19, 56],
+		"innerColor": [28, 1, 7],
+		"uniqueName": "Holo-Hawk",
+		"uniques": ["Gifts of Gold to City-States generate [+33]% more Influence","[+33]% of excess happiness converted to [Science]"],
+		"cities": ["Overd","Darkness Palace","Piracy Wings","Bakana","Old Faith","New Science Ground"]
+	},
+{
 		"name": "Modern Strike",
 		"leaderName": "Shishiro Botan",
 		"adjective": ["Strike"],
@@ -8,10 +133,10 @@
 		
 		"startIntroPart1": "",
 		
-		"declaringWar": "Until none of your people remain!",
+		"declaringWar": "I must destroy your lame civilization!",
 		"attacked": "What you think you are doing?! Baka!.",
 		"defeated": "Will this be my last goodbye to you?.",
-		"introduction": "Heia!",
+		"introduction": "Ohayo!",
 		
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",

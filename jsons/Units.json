@@ -65,7 +65,7 @@
 		"strength": 70,
 		"cost": 225,
 		"requiredTech": "Rifling",
-                "uniques": ["Self-destructs when attacking"],
+                "uniques": ["Self-destructs when attacking","Blast radius [3]"],
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
