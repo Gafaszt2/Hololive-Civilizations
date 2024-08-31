@@ -1,0 +1,9 @@
+[
+           {
+        "name": "Fame",
+        "victoryScreenHeader": "Fame can be obtained in a lot of ways, declaring frienship, entering a golden age, conquering a city, founding a city, constructing a wonder, founding a religion, entering a new era",
+        "milestones": ["Anyone should build [Final Concert]"],
+        "victoryString": "You became the most famous person of all world!",
+        "defeatString": "You have been defeated."
+    },
+ ]

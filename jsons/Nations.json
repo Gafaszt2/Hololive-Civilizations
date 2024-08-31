@@ -1,0 +1,77 @@
+[
+{
+		"name": "Feather",
+		"leaderName": "Oozora Subaru",
+		"adjective": ["Feather"],
+		"startBias": ["Lakes"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [250, 249, 225],
+		"innerColor": [181, 179, 101],
+		"uniqueName": "Swan",
+		"uniques": ["[+2 Faith] from every [Lakes]","[+1 Faith] from every [Bonus resource] <starting from the [Medieval era]>","Provides [1] [Fame] <upon discovering a Natural Wonder>"],
+		"cities": ["Dreaming Days","Shijosugi Adtruck","Stardust","Tears of the Moon","Fujun Mujun","Astro","Hologram Circus","Pastel Tea Time"]
+	},
+{
+		"name": "Hologram Circus",
+		"leaderName": "Omaru Polka",
+		"adjective": ["Circus"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [250, 57, 40],
+		"innerColor": [252, 225, 222],
+		"uniqueName": "Ohapol!",
+		"uniques": ["[+2 Culture] from every [Circus]","Provides [1] [Fame] <upon constructing [Circus]>"],
+		"cities": ["Dreaming Days","Shijosugi Adtruck","Stardust","Tears of the Moon","Fujun Mujun","Astro","Hologram Circus","Pastel Tea Time"]
+	},
+{
+		"name": "Stellar",
+		"leaderName": "Hoshimachi Suisei",
+		"adjective": ["Stellar"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [202, 209, 250],
+		"innerColor": [32, 84, 227],
+		"uniqueName": "Tetris Livestream",
+		"uniques": ["[+1 Science] from all [Science] buildings","Provides [1] [Videogames] <upon constructing [Mint]>"],
+		"cities": ["Dazlling", "Newton","Kyoushitsu ni Ao","Planetarium","Story Time","Moonlightspeed","Stellar Stellar","My Happy Transmission","Soliloquy","Xion","Bluerose"]
+	},
+]

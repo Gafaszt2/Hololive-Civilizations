@@ -1,0 +1,12 @@
+{
+    "name": "Global uniques",
+    "uniques": ["Provides [2] [Fame] <upon declaring war with a major Civilization> <for [100000] turns>",
+                "Provides [1] [Fame] <upon declaring friendship> <for [100000] turns>",
+                "Provides [3] [Fame] <upon entering a Golden Age> <for [100000] turns>",
+                "Provides [3] [Fame] <upon conquering a city> <for [100000] turns>",
+                "Provides [2] [Fame] <upon founding a city> <for [100000] turns>",
+                "Provides [4] [Fame] <upon constructing [Wonder] [in all cities]> <for [100000] turns>",
+                "Provides [2] [Fame] <upon founding a Religion> <for [100000] turns>",
+                "Provides [3] [Fame] <upon entering a new era> <for [100000] turns>",
+    ]
+}

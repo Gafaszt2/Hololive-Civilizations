@@ -1,0 +1,15 @@
+[	{
+		"name": "Videogames",
+                "culture": 1,
+		"resourceType": "Luxury",
+	},
+        {
+		"name": "Bad Influence",
+                "uniques": ["[-1 Happiness, -1 Production] [in all cities]"]
+		"resourceType": "Bonus",
+	},
+        {
+		"name": "Fame",
+		"resourceType": "Strategic",
+	},
+]

@@ -1,0 +1,42 @@
+[
+{
+		"name": "Final Concert",
+		"cost": 1000,
+		"isNationalWonder": true,
+		"uniques": ["Consumes [250] [Fame]","Triggers a global alert upon build start",
+			"Hidden when [Fame] Victory is disabled", "Cannot be hurried"]
+	},
+{
+        "name": "Subatomo Station",
+        "uniqueTo": "Feather",
+	"replaces": "Police Station",
+        "cost": 300,
+        "science": 2,
+        "gold": 1,
+        "hurryCostModifier": 10,
+        "uniques": ["Hidden when espionage is disabled", "[-35]% enemy spy effectiveness [in this city]"],
+        "requiredBuilding": "Constabulary",
+        "requiredTech": "Electricity"
+    },
+{
+		"name": "Hologram Stadium",
+                "uniqueTo": "Hologram Circus",
+		"replaces": "Stadium",
+		"happiness": 4,
+                "culture": 2,
+		"requiredBuilding": "Theatre",
+		"maintenance": 1,
+		"requiredTech": "Refrigeration"
+	},
+{
+		"name": "Comet Observatory",
+                "uniqueTo": "Stellar",
+		"replaces": "Observatory",
+		"maintenance": 0,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 50},
+		"requiredBuilding": "Library",
+		"uniques": ["[+1 Science] from [Mountain] tiles [in all cities]"],
+		"requiredTech": "Astronomy"
+	},
+]

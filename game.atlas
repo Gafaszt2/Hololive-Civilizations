@@ -1,0 +1,160 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Comet Observatory
+  rotate: false
+  xy: 1078, 398
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Final Concert
+  rotate: false
+  xy: 1186, 398
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hologram Stadium
+  rotate: false
+  xy: 1078, 182
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Subatomo Station
+  rotate: false
+  xy: 1294, 290
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Hoshimachi Suisei
+  rotate: false
+  xy: 4, 148
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+LeaderIcons/Omaru Polka
+  rotate: false
+  xy: 362, 148
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+LeaderIcons/Oozora Subaru
+  rotate: false
+  xy: 720, 148
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+NationIcons/Feather
+  rotate: false
+  xy: 1078, 290
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Hologram Circus
+  rotate: false
+  xy: 220, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Stellar
+  rotate: false
+  xy: 328, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Bad Influence
+  rotate: false
+  xy: 4, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Fame
+  rotate: false
+  xy: 112, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Videogames
+  rotate: false
+  xy: 1402, 398
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Beach
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hoshiyomi
+  rotate: false
+  xy: 1402, 362
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Omaruza
+  rotate: false
+  xy: 1510, 470
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Subatomo
+  rotate: false
+  xy: 436, 54
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Hoshiyomi
+  rotate: false
+  xy: 1186, 290
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Omaruza
+  rotate: false
+  xy: 1294, 398
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Subatomo
+  rotate: false
+  xy: 1186, 182
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Fennec
+  rotate: false
+  xy: 436, 90
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Stargazer
+  rotate: false
+  xy: 1294, 232
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
