@@ -13,6 +13,14 @@
 		"shortcutKey": "F"
 	},
         {
+		"name": "Concert",
+		"terrainsCanBeBuiltOn": ["Land"],
+                "culture": 4,
+                "happiness": 3,
+		"uniques": ["Provides [4] [Fame]","Gives a defensive bonus of [33]%"],
+		"shortcutKey": "F"
+	},
+        {
 		"name": "HoloX Tower",
                 "uniqueTo": "Hawk Wings",
 		"terrainsCanBeBuiltOn": ["Forest","Tundra","Snow"],

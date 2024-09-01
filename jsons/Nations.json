@@ -1,5 +1,80 @@
 [
 {
+		"name": "League of the Hare Alliance",
+		"leaderName": "Usada Pekora",
+		"adjective": ["Hare"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [50, 82, 82],
+		"innerColor": [242, 252, 252],
+		"uniqueName": "BOOM! BOOM! BOOM!",
+		"uniques": ["Provides [5] [Uranium] <starting from the [Information era]>","[+100]% Strength <for [Atomic Bomb] units>","[+50]% Production when constructing [Atomic Bomb] units [in all cities]"],
+		"cities": ["Ahoy","One Piece","Sands of Time","Bleach Stone","Old Junk","Old Hag"]
+	},
+{
+		"name": "Pirates",
+		"leaderName": "Houshou Marine",
+		"adjective": ["Pirates"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [74, 74, 74],
+		"innerColor": [255, 205, 66],
+		"uniqueName": "Ocean´s Pearl",
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>","[+10]% Strength <for [All] units> <during a Golden Age>","[+1 Gold] from every specialist [in all cities]"],
+		"cities": ["Ahoy","One Piece","Sands of Time","Bleach Stone","Old Junk","Old Hag"]
+	},
+{
+		"name": "Elf Nation",
+		"leaderName": "Shiranui Flare",
+		"adjective": ["Elf"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [51, 69, 63],
+		"innerColor": [158, 230, 205],
+		"uniqueName": "Incendiary",
+		"uniques": ["No defensive terrain penalty","[+15]% Strength <for [Sword] units>","No damage penalty for wounded units"],
+		"cities": ["Nature Home","Magical Tree","Charcoal","Green Dawn","Forest field","Secrets of Nature"]
+	},
+{
 		"name": "HoloX Operations",
 		"leaderName": "Laplus Darkness",
 		"adjective": ["Dark"],

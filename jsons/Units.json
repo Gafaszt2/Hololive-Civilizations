@@ -1,5 +1,56 @@
 [
 {
+		"name": "Great Composer",
+		"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Concert] improvement <by consuming this unit>",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 3
+	},
+{
+		"name": "Black Pearl",
+                "replaces": "Privateer",
+		"uniqueTo": "Pirates",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 30,
+		"cost": 170,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"promotions": ["Coastal Raider I","Coastal Raider II", "[Privateer] ability"],
+		"attackSound": "cannon"
+	},
+{
+		"name": "Nousagi",
+                "replaces": "Rifleman",
+		"uniqueTo": "League of the Hare Alliance",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 36,
+		"cost": 200,
+		"requiredTech": "Rifling",
+                "promotions": ["Survivalism I"],
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+{
+		"name": "Crew",
+                "replaces": "Musketman",
+		"uniqueTo": "Pirates",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 26,
+		"cost": 160,
+                "promotions": ["Coastal Raider I","Coastal Raider II"],
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+{
 		"name": "Teutonic Knight",
                 "replaces": "Knight",
 		"uniqueTo": "Order of Shirogane",

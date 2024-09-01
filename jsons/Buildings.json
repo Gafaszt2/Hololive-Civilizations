@@ -7,6 +7,37 @@
 			"Hidden when [Fame] Victory is disabled", "Cannot be hurried"]
 	},
 {
+		"name": "Nousagi Opera",
+                "uniqueTo": "League of the Hare Alliance",
+	        "replaces": "Theatre",
+		"happiness": 3,
+                "gold": 3,
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Printing Press"
+	},
+{
+		"name": "Mother Tree",
+                "uniqueTo": "Elf Nation",
+                "food": 2,
+	        "replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
+{
+		"name": "Forest Camp",
+                "uniqueTo": "Elf Nation",
+                "faith": 2,
+	        "replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"uniques": ["New [Military] units start with [20] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+{
 		"name": "Formation School",
                 "uniqueTo": "HoloX Operations",
 	        "replaces": "Public School",

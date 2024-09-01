@@ -1,6 +1,7 @@
 {
     "name": "Global uniques",
-    "uniques": ["Provides [2] [Fame] <upon declaring war with a major Civilization> <for [100000] turns>",
+    "uniques": ["May buy [Great Composer] units for [1000] [Faith] [in all cities] at an increasing price ([500])",
+                "Provides [2] [Fame] <upon declaring war with a major Civilization> <for [100000] turns>",
                 "Provides [1] [Fame] <upon declaring friendship> <for [100000] turns>",
                 "Provides [3] [Fame] <upon entering a Golden Age> <for [100000] turns>",
                 "Provides [3] [Fame] <upon conquering a city> <for [100000] turns>",

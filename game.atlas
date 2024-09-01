@@ -6,315 +6,385 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Comet Observatory
   rotate: false
-  xy: 362, 506
+  xy: 1794, 1930
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Final Concert
   rotate: false
-  xy: 1078, 1472
+  xy: 1078, 1106
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Forest Camp
+  rotate: false
+  xy: 1186, 1214
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Formation School
   rotate: false
-  xy: 1186, 1580
+  xy: 1436, 1464
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fortification
   rotate: false
-  xy: 1436, 1830
+  xy: 1544, 1572
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Genomic Farms
   rotate: false
-  xy: 112, 148
+  xy: 362, 282
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/HoloX Auditory
   rotate: false
-  xy: 470, 506
+  xy: 720, 640
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/HoloX Embassy
   rotate: false
-  xy: 720, 1122
+  xy: 4, 40
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/HoloX Operations
   rotate: false
-  xy: 720, 1122
+  xy: 4, 40
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/HoloX Harbor
   rotate: false
-  xy: 720, 906
+  xy: 828, 748
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Hologram Stadium
   rotate: false
-  xy: 1294, 1580
+  xy: 1186, 1106
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Jaakuna Haisui
   rotate: false
-  xy: 1544, 1830
+  xy: 1436, 1356
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Military Training Facility
   rotate: false
-  xy: 112, 40
+  xy: 1794, 1714
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mind Control
   rotate: false
-  xy: 220, 148
+  xy: 1902, 1822
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mother Tree
+  rotate: false
+  xy: 578, 390
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nousagi Opera
+  rotate: false
+  xy: 936, 748
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Robot Factory
   rotate: false
-  xy: 1186, 1364
+  xy: 1902, 1714
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Subatomo Station
   rotate: false
-  xy: 470, 290
+  xy: 320, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Uketsuke
   rotate: false
-  xy: 720, 690
+  xy: 428, 174
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Cherry Blossom
   rotate: false
-  xy: 4, 148
+  xy: 1436, 1572
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Concert
+  rotate: false
+  xy: 212, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Garlic Plantation
   rotate: false
-  xy: 4, 40
+  xy: 1902, 1930
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/HoloX Tower
   rotate: false
-  xy: 1078, 1364
+  xy: 936, 856
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/Hakui Koyori
   rotate: false
-  xy: 4, 1688
+  xy: 4, 1680
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
 LeaderIcons/Hoshimachi Suisei
   rotate: false
-  xy: 4, 1330
+  xy: 4, 1322
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+LeaderIcons/Houshou Marine
+  rotate: false
+  xy: 362, 1680
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
 LeaderIcons/Kazama Iroha
   rotate: false
-  xy: 362, 1688
+  xy: 4, 964
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
 LeaderIcons/Laplus Darkness
   rotate: false
-  xy: 4, 972
+  xy: 362, 1322
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
 LeaderIcons/Murasaki Shion
   rotate: false
-  xy: 362, 1330
+  xy: 720, 1680
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
 LeaderIcons/Omaru Polka
   rotate: false
-  xy: 720, 1688
+  xy: 4, 606
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
 LeaderIcons/Oozora Subaru
   rotate: false
-  xy: 4, 614
+  xy: 362, 964
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
 LeaderIcons/Robocco
   rotate: false
-  xy: 362, 972
+  xy: 720, 1322
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
 LeaderIcons/Sakamata Chloe
   rotate: false
-  xy: 720, 1330
+  xy: 1078, 1680
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+LeaderIcons/Shiranui Flare
+  rotate: false
+  xy: 4, 248
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
 LeaderIcons/Shirogane Noel
   rotate: false
-  xy: 1078, 1688
+  xy: 362, 606
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
 LeaderIcons/Shishiro Botan
   rotate: false
-  xy: 4, 256
+  xy: 720, 964
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
 LeaderIcons/Takane Lui
   rotate: false
-  xy: 362, 614
+  xy: 1078, 1322
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
+LeaderIcons/Usada Pekora
+  rotate: false
+  xy: 1436, 1680
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+NationIcons/Elf Nation
+  rotate: false
+  xy: 470, 498
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Feather
   rotate: false
-  xy: 928, 1222
+  xy: 828, 856
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Garlic Empire
   rotate: false
-  xy: 1544, 1938
+  xy: 1794, 1822
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Hawk Wings
   rotate: false
-  xy: 362, 398
+  xy: 578, 498
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Hologram Circus
   rotate: false
-  xy: 1186, 1472
+  xy: 1078, 998
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/League of the Hare Alliance
+  rotate: false
+  xy: 1544, 1464
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Modern Strike
   rotate: false
-  xy: 362, 290
+  xy: 470, 282
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Order of Shirogane
   rotate: false
-  xy: 578, 506
+  xy: 1294, 1106
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Pirates
+  rotate: false
+  xy: 1544, 1356
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Poison
   rotate: false
-  xy: 720, 798
+  xy: 1652, 1464
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Robotic Federation
   rotate: false
-  xy: 1294, 1472
+  xy: 578, 282
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Samurai Nation
   rotate: false
-  xy: 1652, 1830
+  xy: 1294, 998
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Stellar
   rotate: false
-  xy: 1760, 1938
+  xy: 1652, 1356
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Underground
   rotate: false
-  xy: 1294, 1364
+  xy: 428, 66
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Bad Influence
   rotate: false
-  xy: 1436, 1938
+  xy: 720, 856
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Fame
   rotate: false
-  xy: 720, 1014
+  xy: 720, 748
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Videogames
   rotate: false
-  xy: 1652, 1722
+  xy: 536, 174
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -326,135 +396,191 @@ TileSets/FantasyHex/Tiles/Cherry Blossom
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Concert
+  rotate: false
+  xy: 644, 246
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Garlic Plantation
   rotate: false
-  xy: 1868, 2010
+  xy: 2010, 1966
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/HoloX Tower
   rotate: false
-  xy: 578, 362
+  xy: 644, 210
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Assistant
   rotate: false
-  xy: 1036, 1294
+  xy: 2010, 2002
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Crew
+  rotate: false
+  xy: 594, 80
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Composer
+  rotate: false
+  xy: 44, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hoshiyomi
   rotate: false
-  xy: 720, 654
+  xy: 644, 174
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Magical Cat
   rotate: false
-  xy: 828, 1028
+  xy: 2010, 1930
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nousagi
+  rotate: false
+  xy: 84, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Omaruza
   rotate: false
-  xy: 886, 1086
+  xy: 2010, 1894
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/SSRB
   rotate: false
-  xy: 928, 1128
+  xy: 124, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Subatomo
   rotate: false
-  xy: 986, 1186
+  xy: 2010, 1858
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Teutonic Knight
   rotate: false
-  xy: 1760, 1844
+  xy: 164, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Assistant
   rotate: false
-  xy: 1078, 1580
+  xy: 362, 498
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Black Pearl
+  rotate: false
+  xy: 1078, 1214
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Crew
+  rotate: false
+  xy: 362, 390
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Great Composer
+  rotate: false
+  xy: 470, 390
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Hoshiyomi
   rotate: false
-  xy: 1436, 1722
+  xy: 1294, 1214
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Magical Cat
   rotate: false
-  xy: 1652, 1938
+  xy: 1652, 1572
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nousagi
+  rotate: false
+  xy: 828, 640
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Omaruza
   rotate: false
-  xy: 470, 398
+  xy: 1186, 998
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/SSRB
   rotate: false
-  xy: 1544, 1722
+  xy: 936, 640
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Subatomo
   rotate: false
-  xy: 220, 40
+  xy: 212, 32
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Teutonic Knight
   rotate: false
-  xy: 578, 398
+  xy: 320, 32
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Fennec
   rotate: false
-  xy: 828, 1064
+  xy: 536, 116
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Murder
   rotate: false
-  xy: 928, 1164
+  xy: 536, 58
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Stargazer
   rotate: false
-  xy: 1760, 1880
+  xy: 594, 116
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
