@@ -1,5 +1,9 @@
 [
 {
+        "name": "Council Unit",
+        "uniques": ["[+1] Sight"],
+	},
+{
         "name": "Murder",
         "uniques": ["No damage penalty for wounded units"],
 	},

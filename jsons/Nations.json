@@ -1,5 +1,131 @@
 [
 {
+		"name": "The Paradise",
+		"leaderName": "Irys",
+		"adjective": ["The Paradise"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 115, 159],
+		"uniqueName": "Aristhocracy",
+		"uniques": ["[+2 Production] in cities on [Marsh] tiles","[+2 Gold] in cities on [River] tiles","[+2 Culture] in cities on [Hill] tiles","[+2 Science] in cities on [Desert] tiles","Provides [1] [Council Points] <upon entering a Golden Age>"],
+		"cities": ["Paradise","Noa","Zole","Waddle","Nimbus","Pockus"]
+	},
+{
+		"name": "Chaos",
+		"leaderName": "Hakos Baelz",
+		"adjective": ["Chaos"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [250, 54, 15],
+		"uniqueName": "Total Disorder",
+		"uniques": ["[-1 Culture, +1 Production] from all [Culture] buildings","[-1 Gold, +1 Science] from all [Gold] buildings","[-1 Production, +1 Culture] from all [Production] buildings","[-1 Science, +1 Happiness] from all [Science] buildings"
+,"Provides [1] [Council Points] <upon entering a Golden Age>", "[+1 Faith] from every specialist [in all cities]"],
+		"cities": ["Crazy City","Total Nutiness","Plants vs Chaos","There is a Snake in my Boot","El Polle","Jam Zaam"]
+	},
+{
+		"name": "Civilization",
+		"leaderName": "Nanashi Mumei",
+		"adjective": ["Civ"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [115, 84, 55],
+		"uniqueName": "Humanity",
+		"uniques": ["[+5]% [Culture] [in all cities]","Enables conversion of city production to [Culture]","[+1 Culture, +2 Gold] from each Trade Route","Provides [1] [Council Points] <upon entering a Golden Age>"],
+		"cities": ["Craddle","Stick","Whut","I Forgor","I Rember","Naturei"]
+	},
+{
+		"name": "Time",
+		"leaderName": "Ouro Kronii",
+		"adjective": ["Time"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [61, 93, 153],
+		"uniqueName": "Perfection",
+		"uniques": ["[+2 Science] from every [Mountain]","[1] additional attacks per turn","Provides [1] [Council Points] <upon entering a Golden Age>"],
+		"cities": ["Hourglass","Deep Meaning","Broken City","Fear Craddle","Boring Name","New Wales"]
+	},
+{
+		"name": "Nature",
+		"leaderName": "Ceres Fauna",
+		"adjective": ["Nature"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [50, 64, 42],
+		"uniqueName": "Keeper of Nature",
+		"uniques": ["All healing effects doubled","[+2 Culture] from every [Forest] <starting from the [Modern era]>","[+2 Happiness] from every [Forest] <starting from the [Medieval era]>","Provides [1] [Council Points] <upon entering a Golden Age>"],
+		"cities": ["Ancient Earth","First Tree","Conversion","Tree People","True Faith","Tree House"]
+	},
+{
 		"name": "League of the Hare Alliance",
 		"leaderName": "Usada Pekora",
 		"adjective": ["Hare"],
@@ -22,7 +148,7 @@
 		"innerColor": [242, 252, 252],
 		"uniqueName": "BOOM! BOOM! BOOM!",
 		"uniques": ["Provides [5] [Uranium] <starting from the [Information era]>","[+100]% Strength <for [Atomic Bomb] units>","[+50]% Production when constructing [Atomic Bomb] units [in all cities]"],
-		"cities": ["Ahoy","One Piece","Sands of Time","Bleach Stone","Old Junk","Old Hag"]
+		"cities": ["Hare Nation Capitol","Fascist Craddle","Konpeko","Free Life","Our Land","Taken Spiritual"]
 	},
 {
 		"name": "Pirates",

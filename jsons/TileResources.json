@@ -4,6 +4,10 @@
 		"resourceType": "Luxury",
 	},
         {
+		"name": "Council Points",
+		"resourceType": "Strategic",
+	},
+        {
 		"name": "Bad Influence",
                 "uniques": ["[-1 Happiness, -1 Production] [in all cities]"]
 		"resourceType": "Bonus",

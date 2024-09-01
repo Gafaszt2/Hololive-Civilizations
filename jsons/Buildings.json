@@ -7,6 +7,53 @@
 			"Hidden when [Fame] Victory is disabled", "Cannot be hurried"]
 	},
 {
+		"name": "Gaia",
+                "uniqueTo": "Nature",
+		"food": 3,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Consumes [1] [Council Points]","Destroyed when the city is captured"]
+	},
+{
+		"name": "Hope",
+                "uniqueTo": "The Paradise",
+		"science": 2,
+		"cost": 150,
+		"hurryCostModifier": 40,
+		"uniques": ["Consumes [1] [Council Points]","Destroyed when the city is captured"]
+	},
+{
+		"name": "Nephilim identity",
+                "uniqueTo": "The Paradise",
+		"cost": 200,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Consumes [3] [Council Points]","[+1 Science] from [Hill] tiles [in this city]","Destroyed when the city is captured"]
+	},
+{
+		"name": "Telescope Station",
+                "uniqueTo": "Time",
+		"cost": 200,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Consumes [4] [Council Points]","[+2 Science] from [Mountain] tiles [in this city]","Destroyed when the city is captured"]
+	},
+{
+		"name": "Mayhem",
+                "uniqueTo": "Chaos",
+		"cost": 100,
+		"hurryCostModifier": 40,
+		"uniques": ["Consumes [3] [Council Points]","[+2 Culture] per [3] population [in this city]","Destroyed when the city is captured"]
+	},
+{
+		"name": "Baerats",
+                "uniqueTo": "Chaos",
+		"cost": 150,
+		"hurryCostModifier": 40,
+		"uniques": ["Consumes [2] [Council Points]","[+1 Food] from [Farm] tiles [in this city]","Destroyed when the city is captured"]
+	},
+{
 		"name": "Nousagi Opera",
                 "uniqueTo": "League of the Hare Alliance",
 	        "replaces": "Theatre",
