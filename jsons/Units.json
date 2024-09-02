@@ -10,6 +10,22 @@
 		"movement": 3
 	},
 {
+		"name": "Zomrade",
+                "replaces": "Swordsman",
+		"uniqueTo": "Undead Kingdom",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+                "uniques": ["Cost increases by [33] when built","[+33]% Strength decreasing with distance from the capital"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+{
 		"name": "Time Paradox",
                 "replaces": "Giant Death Robot",
 		"uniqueTo": "Time",

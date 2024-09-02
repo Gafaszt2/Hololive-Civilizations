@@ -7,6 +7,17 @@
 			"Hidden when [Fame] Victory is disabled", "Cannot be hurried"]
 	},
 {
+		"name": "Tombstone",
+                "uniqueTo": "Undead Kingdom",
+	        "replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"faith": 1,
+                "culture": 1,
+                "maintenance": 1,
+		"uniques": ["New [Military] units start with [20] Experience [in this city]", "Destroyed when the city is captured","Consumes [2] [Fame]"],
+		"requiredTech": "Bronze Working"
+	},
+{
 		"name": "Gaia",
                 "uniqueTo": "Nature",
 		"food": 3,

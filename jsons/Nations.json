@@ -1,5 +1,30 @@
 [
 {
+		"name": "Undead Kingdom",
+		"leaderName": "Kureiji Ollie",
+		"adjective": ["Undead Kingdom"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [235, 64, 52],
+		"innerColor": [20, 18, 18],
+		"uniqueName": "ZOMBANWA!!",
+		"uniques": ["[+20]% Production when constructing [Culture] buildings [in all cities]","[+1 Science] from all [Culture] buildings","Provides [1] [Videogames] <upon conquering a city>"],
+		"cities": ["Tombstone Parade","Skeleton","PVZ","Meme","Based","POG"]
+	},
+{
 		"name": "The Paradise",
 		"leaderName": "Irys",
 		"adjective": ["The Paradise"],
@@ -422,7 +447,7 @@
 		"outerColor": [36, 36, 35],
 		"innerColor": [204, 121, 224],
 		"uniqueName": "Mage of Violet",
-		"uniques": ["[+2 Culture] from every [Forest]","[+2 Culture] from every [Forest] <starting from the [Modern era]>","Provides [3] [Fame] <upon constructing [Stonhenge]>"],
+		"uniques": ["[+2 Culture] from every [Forest]","[+2 Culture] from every [Forest] <starting from the [Modern era]>","Provides [3] [Fame] <upon constructing [Stonehenge]>"],
 		"cities": ["Kusogaki","Cinderella","Spoland","Magical","Spectres","Forestial"]
 	},
 {
@@ -472,7 +497,7 @@
 		"outerColor": [250, 57, 40],
 		"innerColor": [252, 225, 222],
 		"uniqueName": "Ohapol!",
-		"uniques": ["[+2 Culture] from every [Circus]","Provides [1] [Fame] <upon constructing [Circus]>"],
+		"uniques": ["[+2 Culture] from every [Circus]","[+2 Happiness] from every [Circus]","Provides [1] [Fame] <upon constructing [Circus]>"],
 		"cities": ["Dreaming Days","Shijosugi Adtruck","Stardust","Tears of the Moon","Fujun Mujun","Astro","Hologram Circus","Pastel Tea Time"]
 	},
 {
