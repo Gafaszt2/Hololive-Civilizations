@@ -1,5 +1,205 @@
 [
 {
+		"name": "Rain Confederation",
+		"leaderName": "Kobo Kanaeru",
+		"adjective": ["Rain"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [28, 31, 46],
+		"innerColor": [199, 251, 252],
+		"uniqueName": "Rain Shaman",
+		"uniques": ["[+1 Culture] from [Water resource] tiles [in all cities]","[+1 Faith] from [Water resource] tiles [in all cities]","Provides [1] [Videogames] <upon conquering a city>"],
+		"cities": ["Rainfall","Lighthouse","Superior Lighthouse","Legendary Cave","Fan Service Zone","Swamp"]
+	},
+{
+		"name": "The Secret Archive",
+		"leaderName": "Vestia Zeta",
+		"adjective": ["Secret"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [199, 199, 199],
+		"innerColor": [28, 31, 46],
+		"uniqueName": "Mission Start",
+		"uniques": ["Enables Research agreements","Enables Defensive Pacts","Science gained from research agreements [+33]%","Provides [1] [Videogames] <upon conquering a city>"],
+		"cities": ["Virtual World","Posterior Conquest","Operation Base","Circuit","Electronic","Demolitios"]
+	},
+{
+		"name": "Keris Alliance",
+		"leaderName": "Anya Melfissa",
+		"adjective": ["Keris"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [64, 59, 47],
+		"innerColor": [209, 184, 123],
+		"uniqueName": "Nervous Sword",
+		"uniques": ["Allied City-States will occasionally gift Great People","Allied City-States provide [Culture] equal to [+33]% of what they produce for themselves","Provides [1] [Videogames] <upon conquering a city>"],
+		"cities": ["Tremble Island","Fresh Plains","Terra Nova","City State Embassy","Giantess Pride","Musical"]
+	},
+{
+		"name": "Peafowl Magical Academia",
+		"leaderName": "Pavolia Reine",
+		"adjective": ["Peafowl"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [217, 255, 237],
+		"innerColor": [22, 185, 250],
+		"uniqueName": "Attention please!",
+		"uniques": ["[+1] Movement <for [Great Composer] units>","[+1] Movement <for [Worker] units>","[+1] Movement <for [Gunpowder] units>","Provides [1] [Videogames] <upon conquering a city>"],
+		"cities": ["Scaredy","Fast Intiution","Sniping","The Dark Moon","The YABE","DJ City"]
+	},
+{
+		"name": "Moon Faith",
+		"leaderName": "Moona Hoshinova",
+		"adjective": ["Moon Faith"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [73, 66, 79],
+		"innerColor": [230, 217, 255],
+		"uniqueName": "Moon´s Goddess",
+		"uniques": ["[+1 Faith] from every [Wonder]","[+2 Faith] from every [Holy site]","[+2 Culture] from every [Holy site]","Provides [1] [Videogames] <upon conquering a city>"],
+		"cities": ["The Moon","Big Sister","Landing","The Light","The Other Half","Blue Sky"]
+	},
+{
+		"name": "Squirrel Order",
+		"leaderName": "Ayunda Risu",
+		"adjective": ["Squirrel"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [237, 135, 26],
+		"innerColor": [41, 26, 10],
+		"uniqueName": "Purupuru ganbari Risu",
+		"uniques": ["[+1 Food] from every [Grassland]","[+2 Food] from every [Forest]","Provides [1] [Videogames] <upon conquering a city>"],
+		"cities": ["Bonk","BRR","Budiman","Cactus","Jombi","Piggy Bank"]
+	},
+{
+		"name": "Salonpas",
+		"leaderName": "Airani Iofifteen",
+		"adjective": ["Salonpas"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [184, 247, 255],
+		"innerColor": [255, 46, 137],
+		"uniqueName": "Happy Synthesizer",
+		"uniques": ["[Great Artist] is earned [+33]% faster","[+2 Culture] from every [Landmark]","[+2 Gold] from every [Landmark]","Provides [1] [Videogames] <upon conquering a city>"],
+		"cities": ["Area 15","Kira Kira","Holofoi","Alien","New Paint","Art"]
+	},
+{
+		"name": "The Forge",
+		"leaderName": "Kaela Kovalskia",
+		"adjective": ["Forge"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [125, 85, 0],
+		"innerColor": [252, 251, 247],
+		"uniqueName": "Teacher's Forge",
+		"uniques": ["May buy [Great Pemaloe] units for [200] [Faith] [in all cities] at an increasing price ([100]) <hidden from users>","[+2 Production] in cities on [Hill] tiles","[+1 Production] from every [Mine]","Provides [1] [Videogames] <upon conquering a city>"],
+		"cities": ["Kaela´s Forge","Friend´s Forge","Titanium","Astrailium","Metal Quarry","Gold Mine"]
+	},
+{
 		"name": "Undead Kingdom",
 		"leaderName": "Kureiji Ollie",
 		"adjective": ["Undead Kingdom"],
@@ -347,7 +547,7 @@
 		"outerColor": [191, 19, 56],
 		"innerColor": [28, 1, 7],
 		"uniqueName": "Holo-Hawk",
-		"uniques": ["Gifts of Gold to City-States generate [+33]% more Influence","[+33]% of excess happiness converted to [Science]"],
+		"uniques": ["Gifts of Gold to City-States generate [+33]% more Influence","[+44]% of excess happiness converted to [Science]"],
 		"cities": ["Overd","Darkness Palace","Piracy Wings","Bakana","Old Faith","New Science Ground"]
 	},
 {
@@ -472,7 +672,7 @@
 		"outerColor": [250, 249, 225],
 		"innerColor": [181, 179, 101],
 		"uniqueName": "Swan",
-		"uniques": ["[+2 Faith] from every [Lakes]","[+1 Faith] from every [Bonus resource] <starting from the [Medieval era]>","Provides [1] [Fame] <upon discovering a Natural Wonder>"],
+		"uniques": ["[+2 Faith] from every [Lakes]","[+1 Science] from every [Lakes] <starting from the [Modern era]>","[+1 Faith] from every [Bonus resource] <starting from the [Medieval era]>","Provides [1] [Fame] <upon discovering a Natural Wonder>"],
 		"cities": ["Stellar Symphony","Shashimio","Negi u No Panaiuta", "Tsubasa"]
 	},
 {

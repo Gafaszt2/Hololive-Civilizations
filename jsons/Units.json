@@ -10,6 +10,57 @@
 		"movement": 3
 	},
 {
+		"name": "Peacock Infantry",
+                "uniqueTo": "Peafowl Magical Academia",
+                "replaces": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 75,
+		"cost": 380,
+		"requiredTech": "Plastics",
+                "promotions": ["Merakyat"],
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
+{
+		"name": "Ark Wyvern",
+                "uniqueTo": "Moon Faith",
+                "replaces": "Cavalry",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 40,
+		"cost": 300,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Consumes [4] [Fame]","Can move after attacking","No defensive terrain bonus","[-44]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+{
+		"name": "Risuner",
+                "uniqueTo": "Squirrel Order",
+                "replaces": "Scout",
+		"unitType": "Scout",
+		"movement": 4,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+{
+		"name": "Great Pemaloe",
+                "uniqueTo": "The Forge",
+		"unitType": "Civilian",
+		"uniques": [
+            "Can instantly construct a [Mine] improvement",
+            "Great Person - [Production]", "Unbuildable", "Uncapturable"],
+		"movement": 1
+	},
+{
 		"name": "Zomrade",
                 "replaces": "Swordsman",
 		"uniqueTo": "Undead Kingdom",
