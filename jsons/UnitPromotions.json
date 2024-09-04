@@ -16,6 +16,10 @@
         "uniques": ["Double movement in [Plains]","[+20]% Strength <when fighting in [Plains] tiles>"],
 	},
 {
+        "name": "Kikerikiii",
+        "uniques": ["[1] additional attacks per turn"],
+	},
+{
         "name": "Stargazer",
         "uniques": ["[1] additional attacks per turn"],
 	},

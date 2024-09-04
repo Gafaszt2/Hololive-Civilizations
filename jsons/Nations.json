@@ -1,5 +1,130 @@
 [
 {
+		"name": "The Sea",
+		"leaderName": "Gawr Gura",
+		"adjective": ["Sea"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [245, 255, 255],
+		"innerColor": [2, 123, 209],
+		"uniqueName": "Strategical Sharkgirl",
+		"uniques": ["Provides [2] [Uranium] <after discovering [Atomic Theory]>","[+25]% Strength <for [Water] units>","Provides [2] [Oil] <after discovering [Biology]>"],
+		"cities": ["Atlantis","Undersea","Coral","Luxury World","Dolphin´s Cave","Sharkland"]
+	},
+{
+		"name": "Detective Society",
+		"leaderName": "Watson Amelia",
+		"adjective": ["Detective"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [247, 244, 233],
+		"innerColor": [237, 146, 7],
+		"uniqueName": "Investigation",
+		"uniques": ["[+1 Science] from all [Science] buildings","[+1 Gold] from all [Gold] buildings <after discovering [Electricity]>","Provides [2] [Whisky] <after discovering [Electricity]>","Provides [1] [Aluminum] <after discovering [Electricity]>"],
+		"cities": ["Whisky","Gale","Triumph","Elemental Sir","Gentleman","Sir Edmund"]
+	},
+{
+		"name": "Ancient Faith",
+		"leaderName": "Ninomae Ina'nis",
+		"adjective": ["Ancient"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [8, 5, 13],
+		"innerColor": [99, 70, 156],
+		"uniqueName": "The Call of Takodachi",
+		"uniques": ["[+1 Culture] from [Coast] tiles [in all cities]","[+25]% Strength <for [Water] units>","Provides [2] [Coal] <after discovering [Industrialization]>"],
+		"cities": ["The First Call","The Warning","Tentacles","Takodachi","Total Takodachi","Soup"]
+	},
+{
+		"name": "Phoenix Temple",
+		"leaderName": "Takanashi Kiara",
+		"adjective": ["Phoenix"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [184, 79, 4],
+		"innerColor": [217, 247, 255],
+		"uniqueName": "FastFood!",
+		"uniques": ["[+1 Food] from all [Food] buildings","[+10]% Strength <for [Sword] units>","Provides [2] [Iron] <after discovering [Iron Working]>"],
+		"cities": ["Resurrection","Birdsong","Soft World","Elegancy","New Era","Totalian"]
+	},
+{
+		"name": "Deadbeat Nation",
+		"leaderName": "Mori Calliope",
+		"adjective": ["Death"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [204, 176, 247],
+		"innerColor": [33, 14, 19],
+		"uniqueName": "Grim Reaper",
+		"uniques": ["[+1 Culture] from [Mountain] tiles [in all cities]","[+1 Faith] from [Mountain] tiles [in all cities]","Provides [2] [Horses] <after discovering [Animal Husbandry]>"],
+		"cities": ["Deadland","Inferno","Sodoma","Days","Light","Rap"]
+	},
+{
 		"name": "Rain Confederation",
 		"leaderName": "Kobo Kanaeru",
 		"adjective": ["Rain"],

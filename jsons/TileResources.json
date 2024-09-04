@@ -4,6 +4,11 @@
 		"resourceType": "Luxury",
 	},
         {
+		"name": "Whisky",
+                "happiness": 1,
+		"resourceType": "Luxury",
+	},
+        {
 		"name": "Council Points",
 		"resourceType": "Strategic",
 	},
