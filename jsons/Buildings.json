@@ -6,6 +6,103 @@
 		"uniques": ["Consumes [250] [Fame]","Triggers a global alert upon build start",
 			"Hidden when [Fame] Victory is disabled", "Cannot be hurried"]
 	},
+        {
+		"name": "Chattino Tactics",
+                "uniqueTo": "Pizza God Eyes",
+                "replaces": "Military Academy",
+		"hurryCostModifier": 0,
+		"maintenance": 2,
+		"requiredBuilding": "Armory",
+		"uniques": ["[+1 Production] from [Mine] tiles [in this city]","New [Military] units start with [18] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Military Science"
+	},
+        {
+		"name": "Art University",
+                "uniqueTo": "Pizza God Eyes",
+                "replaces": "University",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"culture": 33},
+		"specialistSlots": {"Artist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+3 Culture] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+        {
+		"name": "Memorization Problems",
+                "uniqueTo": "Flag of Freedom",
+                "replaces": "Garden",
+		"uniques": ["[+35]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Theology"
+	},
+        {
+		"name": "Isolation Trading Post",
+                "uniqueTo": "Ancient Automaton",
+                "replaces": "Market",
+		"production": 2, 
+                "gold": 1,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 25},
+		"requiredTech": "Currency"
+	},
+{
+		"name": "Ancient Workshop",
+                "uniqueTo": "Ancient Automaton",
+                "replaces": "Shrine",
+		"production": 2,
+		"cost": 60,
+		"maintenance": 2,
+		"requiredTech": "Pottery",
+		"uniques": ["New [Military] units start with [10] Experience [in this city]"]
+	},
+{
+		"name": "Mister Donut",
+                "uniqueTo": "Double Crown",
+                "replaces": "Hospital",
+		"food": 5,
+                "gold": 2,
+		"requiredBuilding": "Aqueduct",
+		"maintenance": 2,
+                "uniques": ["[+20]% [Gold] [in this city]"],
+		"hurryCostModifier": 0,
+		"requiredTech": "Biology"
+	},
+{
+		"name": "Mococo Beam",
+                "uniqueTo": "Double Crown",
+                "replaces": "Armory",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredBuilding": "Barracks",
+		"uniques": ["[+2 Production] per [4] population [in this city]","New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Steel"
+	},
+{
+		"name": "Justice Headquarters",
+                "uniqueTo": "Great Exardia",
+                "replaces": "Heroic Epic",
+		"cost": 125,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["[Great General] is earned [+15]% faster","Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
+			"Cost increases by [30] per owned city"],
+		"requiredTech": "Iron Working"
+	},
+{
+		"name": "Biboo Tax",
+                "uniqueTo": "Gem Empire",
+	        "replaces": "Stock Exchange",
+		"gold": 3,
+		"percentStatBonus": {"gold": 25},
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 15,
+                "uniques": ["[+2 Gold] per [4] population [in this city]"],
+		"requiredBuilding": "Bank",
+		"requiredTech": "Electricity"
+	},
 {
 		"name": "Manga Library",
                 "uniqueTo": "Phoenix Temple",

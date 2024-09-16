@@ -10,6 +10,51 @@
 		"movement": 3
 	},
 {
+		"name": "Gremurin",
+                "uniqueTo": "Flag of Freedom",
+                "replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+                "uniques" : ["[+33]% Strength <vs [Gunpowder] units> <during a Golden Age>"],
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+{
+		"name": "Rosarians",
+                "uniqueTo": "Great Exardia",
+                "replaces": "Longswordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 24,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+                "promotions": ["Cover I"],
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
+{
+		"name": "Pebble",
+                "uniqueTo": "Gem Empire",
+                "replaces": "Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["[+25]% Strength <when defending>","May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Loyal Fanatic."}
+		]
+	},
+{
 		"name": "Phoenix",
                 "uniqueTo": "Phoenix Temple",
                 "replaces": "Musketman",

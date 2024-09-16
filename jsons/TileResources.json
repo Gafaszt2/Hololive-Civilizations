@@ -9,6 +9,11 @@
 		"resourceType": "Luxury",
 	},
         {
+		"name": "Memes",
+                "happiness": 1,
+		"resourceType": "Luxury",
+	},
+        {
 		"name": "Council Points",
 		"resourceType": "Strategic",
 	},

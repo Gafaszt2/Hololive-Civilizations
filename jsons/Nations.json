@@ -1,5 +1,166 @@
 [
 {
+		"name": "Ancient Automaton",
+		"leaderName": "Cecilia Immergreen",
+		"adjective": ["Ancient"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [36, 64, 35],
+		"innerColor": [161, 240, 158],
+		"uniqueName": "Wind Up Time!",
+		"uniques": ["[+25]% growth [in all cities] <upon entering the [Medieval era]>","[+20]% growth [in all cities] <upon entering the [Modern era]>","[+1 Food] from every specialist [in all cities]"],
+		"cities": ["Double Dog","Double Dragon","Dual Palace","Dual Hermitage","Land of Beaches","Land of Sigma"]
+	},
+{
+		"name": "Flag of Freedom",
+		"leaderName": "Gigi Murin",
+		"adjective": ["Freedom"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 246, 217],
+		"innerColor": [77, 69, 58],
+		"uniqueName": "Chaser!",
+		"uniques": ["[+2 Science] from each Trade Route","[+1 Science, +2 Production] from each Trade Route <when above [30] Happiness>","[+1 Culture] from every specialist [in all cities]"],
+		"cities": ["Double Dog","Double Dragon","Dual Palace","Dual Hermitage","Land of Beaches","Land of Sigma"]
+	},
+{
+		"name": "Pizza God Eyes",
+		"leaderName": "Raora Panthera",
+		"adjective": ["God Eyes"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 107, 250],
+		"innerColor": [59, 1, 10],
+		"uniqueName": "Pop Culture!",
+		"uniques": ["[+2 Culture] from all [Culture] buildings","[+2 Culture] from all [Culture] buildings <when above [30] Happiness>","[+1 Gold] from every specialist [in all cities]"],
+		"cities": ["Double Dog","Double Dragon","Dual Palace","Dual Hermitage","Land of Beaches","Land of Sigma"]
+	},
+
+
+
+
+
+
+
+
+
+
+
+{
+		"name": "Double Crown",
+		"leaderName": "Fuwamoco",
+		"adjective": ["Fuwamoco"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [223, 221, 237],
+		"innerColor": [255, 107, 250],
+		"uniqueName": "BAU BAU!",
+		"uniques": ["[Great General] is earned [+25]% faster","[+100]% Yield from every [Great Improvement]","Provides [1] [Memes] <upon discovering a Natural Wonder>"],
+		"cities": ["Double Dog","Double Dragon","Dual Palace","Dual Hermitage","Land of Beaches","Land of Sigma"]
+	},
+{
+		"name": "Great Exardia",
+		"leaderName": "Elizabeth Rose Bloodflame",
+		"adjective": ["Exardia"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [61, 8, 0],
+		"innerColor": [181, 255, 239],
+		"uniqueName": "Justice!",
+		"uniques": ["[+60]% Strength <vs [Barbarian] units>","[+35]% Strength <when fighting in [Friendly land] tiles>","Provides [1] [Memes] <upon discovering a Natural Wonder>"],
+		"cities": ["Exardia","Bloodflames","Exardium","Diasmun","Justiceland","Avenger Land"]
+	},
+{
+		"name": "Gem Empire",
+		"leaderName": "Koseki Bijou",
+		"adjective": ["Gem"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [37, 29, 54],
+		"innerColor": [239, 191, 255],
+		"uniqueName": "Gem of Emotion",
+		"uniques": ["[-15]% Unhappiness from [Population] [in all cities]","[+1 Gold, +2 Culture] from [Quarry] tiles [in all cities]","Provides [1] [Memes] <upon discovering a Natural Wonder>"],
+		"cities": ["Gemstone","Pebbleland","Tyranic Stone Gemies","Trully a Gem Moment","Rockas","Gemmas"]
+	},
+{
 		"name": "The Sea",
 		"leaderName": "Gawr Gura",
 		"adjective": ["Sea"],
