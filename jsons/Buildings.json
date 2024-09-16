@@ -8,7 +8,7 @@
 	},
         {
 		"name": "Chattino Tactics",
-                "uniqueTo": "Pizza God Eyes",
+                "uniqueTo": "Romance Empire",
                 "replaces": "Military Academy",
 		"hurryCostModifier": 0,
 		"maintenance": 2,
@@ -18,7 +18,7 @@
 	},
         {
 		"name": "Art University",
-                "uniqueTo": "Pizza God Eyes",
+                "uniqueTo": "Romance Empire",
                 "replaces": "University",
 		"maintenance": 2,
 		"hurryCostModifier": 15,
@@ -30,7 +30,7 @@
 	},
         {
 		"name": "Memorization Problems",
-                "uniqueTo": "Flag of Freedom",
+                "uniqueTo": "Freesia",
                 "replaces": "Garden",
 		"uniques": ["[+35]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
 		"hurryCostModifier": 25,
@@ -39,7 +39,7 @@
 	},
         {
 		"name": "Isolation Trading Post",
-                "uniqueTo": "Ancient Automaton",
+                "uniqueTo": "Immerheim",
                 "replaces": "Market",
 		"production": 2, 
                 "gold": 1,
@@ -50,7 +50,7 @@
 	},
 {
 		"name": "Ancient Workshop",
-                "uniqueTo": "Ancient Automaton",
+                "uniqueTo": "Immerheim",
                 "replaces": "Shrine",
 		"production": 2,
 		"cost": 60,

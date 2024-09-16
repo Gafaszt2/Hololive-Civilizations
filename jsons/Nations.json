@@ -1,6 +1,6 @@
 [
 {
-		"name": "Ancient Automaton",
+		"name": "Immerheim",
 		"leaderName": "Cecilia Immergreen",
 		"adjective": ["Ancient"],
 		"startBias": ["Plains"],
@@ -22,10 +22,10 @@
 		"innerColor": [161, 240, 158],
 		"uniqueName": "Wind Up Time!",
 		"uniques": ["[+25]% growth [in all cities] <upon entering the [Medieval era]>","[+20]% growth [in all cities] <upon entering the [Modern era]>","[+1 Food] from every specialist [in all cities]"],
-		"cities": ["Double Dog","Double Dragon","Dual Palace","Dual Hermitage","Land of Beaches","Land of Sigma"]
+		"cities": ["Langer Bard","Kaiser Might","Burgundian","New Germany","Land of the Germans","Car Ride"]
 	},
 {
-		"name": "Flag of Freedom",
+		"name": "Freesia",
 		"leaderName": "Gigi Murin",
 		"adjective": ["Freedom"],
 		"startBias": ["Plains"],
@@ -47,10 +47,10 @@
 		"innerColor": [77, 69, 58],
 		"uniqueName": "Chaser!",
 		"uniques": ["[+2 Science] from each Trade Route","[+1 Science, +2 Production] from each Trade Route <when above [30] Happiness>","[+1 Culture] from every specialist [in all cities]"],
-		"cities": ["Double Dog","Double Dragon","Dual Palace","Dual Hermitage","Land of Beaches","Land of Sigma"]
+		"cities": ["Freeland","Non Prison Thing","Mighty","The Best City","Madagascar","Freesiaa"]
 	},
 {
-		"name": "Pizza God Eyes",
+		"name": "Romance Empire",
 		"leaderName": "Raora Panthera",
 		"adjective": ["God Eyes"],
 		"startBias": ["Plains"],
@@ -71,8 +71,8 @@
 		"outerColor": [255, 107, 250],
 		"innerColor": [59, 1, 10],
 		"uniqueName": "Pop Culture!",
-		"uniques": ["[+2 Culture] from all [Culture] buildings","[+2 Culture] from all [Culture] buildings <when above [30] Happiness>","[+1 Gold] from every specialist [in all cities]"],
-		"cities": ["Double Dog","Double Dragon","Dual Palace","Dual Hermitage","Land of Beaches","Land of Sigma"]
+		"uniques": ["[+1 Culture] from all [Culture] buildings","[+2 Culture] from all [Culture] buildings <when above [30] Happiness>","[+1 Gold] from every specialist [in all cities] <when above [30] Happiness>"],
+		"cities": ["Romantic","Deluxe","Eu sea","Seu le Vie","Romance Land","Land of Love"]
 	},
 
 

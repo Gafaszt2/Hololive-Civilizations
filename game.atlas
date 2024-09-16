@@ -187,133 +187,133 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Ancient Workshop
   rotate: false
-  xy: 1436, 1586
+  xy: 1078, 1228
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Art Station
   rotate: false
-  xy: 212, 154
+  xy: 1794, 1944
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Art University
   rotate: false
-  xy: 362, 389
+  xy: 212, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Atlantis
   rotate: false
-  xy: 720, 762
+  xy: 520, 512
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Baerats
   rotate: false
-  xy: 1078, 1120
+  xy: 828, 870
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Biboo Tax
   rotate: false
-  xy: 1186, 1228
+  xy: 1078, 1120
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Chattino Tactics
   rotate: false
-  xy: 1794, 1836
+  xy: 1544, 1586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Comet Observatory
   rotate: false
-  xy: 720, 654
+  xy: 362, 281
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dead Bodies Wall
   rotate: false
-  xy: 1186, 1120
+  xy: 1078, 1012
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Erofi
   rotate: false
-  xy: 1902, 1836
+  xy: 1794, 1728
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Final Concert
   rotate: false
-  xy: 1186, 1012
+  xy: 936, 762
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Forest Camp
   rotate: false
-  xy: 1544, 1370
+  xy: 1186, 1012
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Formation School
   rotate: false
-  xy: 1652, 1478
+  xy: 1294, 1120
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fortification
   rotate: false
-  xy: 1902, 1728
+  xy: 1544, 1370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Gaia
   rotate: false
-  xy: 1294, 1012
+  xy: 936, 654
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Gate Open
   rotate: false
-  xy: 628, 512
+  xy: 212, 46
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Genomic Farms
   rotate: false
-  xy: 844, 546
+  xy: 736, 546
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Great Virtual Shield
   rotate: false
-  xy: 578, 404
+  xy: 470, 281
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/HoloX Auditory
   rotate: false
-  xy: 686, 296
+  xy: 686, 404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -334,28 +334,28 @@ NationIcons/HoloX Operations
   index: -1
 BuildingIcons/HoloX Harbor
   rotate: false
-  xy: 794, 438
+  xy: 686, 296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Hologram Stadium
   rotate: false
-  xy: 902, 330
+  xy: 902, 438
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Hope
   rotate: false
-  xy: 1010, 330
+  xy: 1010, 438
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Horror Videogame
   rotate: false
-  xy: 320, 154
+  xy: 1010, 330
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -481,7 +481,7 @@ BuildingIcons/Office
   index: -1
 BuildingIcons/Robot Factory
   rotate: false
-  xy: 1260, 796
+  xy: 1368, 904
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -551,28 +551,28 @@ BuildingIcons/Zecretary Shelter
   index: -1
 ImprovementIcons/Cherry Blossom
   rotate: false
-  xy: 1902, 1944
+  xy: 1794, 1836
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Concert
   rotate: false
-  xy: 828, 762
+  xy: 720, 654
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Garlic Plantation
   rotate: false
-  xy: 212, 46
+  xy: 1652, 1370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/HoloX Tower
   rotate: false
-  xy: 794, 330
+  xy: 794, 438
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -682,107 +682,107 @@ LeaderIcons/Watson Amelia
   orig: 350, 350
   offset: 0, 0
   index: -1
-NationIcons/Ancient Automaton
+NationIcons/Ancient Faith
   rotate: false
   xy: 720, 870
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Ancient Faith
-  rotate: false
-  xy: 1078, 1228
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/Chaos
   rotate: false
-  xy: 1544, 1586
+  xy: 1436, 1478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Civilization
   rotate: false
-  xy: 362, 281
+  xy: 1902, 1944
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Deadbeat Nation
   rotate: false
-  xy: 1436, 1370
+  xy: 1294, 1228
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Detective Society
   rotate: false
-  xy: 1544, 1478
+  xy: 1436, 1370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Double Crown
   rotate: false
-  xy: 1652, 1586
+  xy: 1544, 1478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Elf Nation
   rotate: false
-  xy: 1794, 1728
+  xy: 1652, 1586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Feather
   rotate: false
-  xy: 936, 762
+  xy: 828, 654
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Flag of Freedom
+NationIcons/Freesia
   rotate: false
-  xy: 1294, 1120
+  xy: 1652, 1478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Garlic Empire
   rotate: false
-  xy: 1652, 1370
+  xy: 1294, 1012
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Gem Empire
   rotate: false
-  xy: 736, 546
+  xy: 628, 512
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Great Exardia
   rotate: false
-  xy: 470, 389
+  xy: 952, 546
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Hawk Wings
   rotate: false
-  xy: 686, 404
+  xy: 578, 296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Hologram Circus
   rotate: false
-  xy: 902, 438
+  xy: 794, 330
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Immerheim
+  rotate: false
+  xy: 320, 46
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -850,28 +850,28 @@ NationIcons/Pirates
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Pizza God Eyes
+NationIcons/Poison
   rotate: false
   xy: 1152, 904
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Poison
+NationIcons/Rain Confederation
   rotate: false
   xy: 1260, 904
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Rain Confederation
+NationIcons/Robotic Federation
   rotate: false
-  xy: 1152, 796
+  xy: 1260, 796
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Robotic Federation
+NationIcons/Romance Empire
   rotate: false
   xy: 1152, 688
   size: 100, 100
@@ -957,21 +957,21 @@ NationIcons/Underground
   index: -1
 ResourceIcons/Bad Influence
   rotate: false
-  xy: 828, 870
+  xy: 720, 762
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Council Points
   rotate: false
-  xy: 936, 870
+  xy: 828, 762
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Fame
   rotate: false
-  xy: 828, 654
+  xy: 1902, 1836
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1300,77 +1300,77 @@ TileSets/FantasyHex/Units/Zomrade
   index: -1
 UnitIcons/Ark Wyvern
   rotate: false
-  xy: 1794, 1944
+  xy: 1436, 1586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Assistant
   rotate: false
-  xy: 520, 512
+  xy: 362, 389
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Black Pearl
   rotate: false
-  xy: 1436, 1478
+  xy: 1186, 1228
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Crew
   rotate: false
-  xy: 1078, 1012
+  xy: 936, 870
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Deadbeat
   rotate: false
-  xy: 1294, 1228
+  xy: 1186, 1120
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Friend
   rotate: false
-  xy: 936, 654
+  xy: 1902, 1728
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Great Composer
   rotate: false
-  xy: 952, 546
+  xy: 844, 546
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Great Pemaloe
   rotate: false
-  xy: 470, 281
+  xy: 470, 389
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Gremurin
   rotate: false
-  xy: 578, 296
+  xy: 578, 404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Hooman
   rotate: false
-  xy: 1010, 438
+  xy: 902, 330
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Hoshiyomi
   rotate: false
-  xy: 320, 46
+  xy: 320, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1440,7 +1440,7 @@ UnitIcons/Phoenix
   index: -1
 UnitIcons/Risuner
   rotate: false
-  xy: 1368, 904
+  xy: 1152, 796
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
