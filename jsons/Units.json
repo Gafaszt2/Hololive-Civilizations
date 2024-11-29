@@ -10,6 +10,35 @@
 		"movement": 3
 	},
 {
+		"name": "Novelite",
+                "uniqueTo": "Chronivale",
+                "replaces": "Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 34,
+		"cost": 100,
+		"requiredTech": "Rifling",
+                "uniques": ["Can instantly construct a [Fort] improvement <by consuming this unit>"],
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+{
+		"name": "Jailbird",
+                "uniqueTo": "Ravenreach",
+                "replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 25,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-22]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+{
 		"name": "Gremurin",
                 "uniqueTo": "Freesia",
                 "replaces": "Musketman",

@@ -6,6 +6,29 @@
 		"uniques": ["Consumes [250] [Fame]","Triggers a global alert upon build start",
 			"Hidden when [Fame] Victory is disabled", "Cannot be hurried"]
 	},
+{
+		"name": "Hall of Mirrors",
+                "uniqueTo": "Chronivale",
+                "replaces": "Library",
+		"hurryCostModifier": 25,
+		"science": 1,
+		"uniques": ["[+1 Science] per [3] population [in this city]","[+1 Science] per [6] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+{
+		"name": "Eternity Song",
+                "uniqueTo": "Ravenreach",
+                "replaces": "National College",
+		"cost": 125,
+		"science": 3,
+                "faith": 3,
+                "gold": 3,
+		"culture": 1,
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 50},
+		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
+		"requiredTech": "Philosophy"
+	},
         {
 		"name": "Chattino Tactics",
                 "uniqueTo": "Romance Empire",

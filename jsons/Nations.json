@@ -1,5 +1,55 @@
 [
 {
+		"name": "Chronivale",
+		"leaderName": "Shiori Novella",
+		"adjective": ["Chronivale"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [146, 146, 173],
+		"innerColor": [30, 30, 36],
+		"uniqueName": "The Archiver",
+		"uniques": ["Earn [10]% of killed [Wounded] unit's [Cost] as [Science]","Upon capturing a city, receive [2] times its [Gold] production as [Science] immediately","Provides [1] [Memes] <upon discovering a Natural Wonder>"],
+		"cities": ["Inkwell","Fablehurst","Quillhaven","Storybrook","Novellia","Scriptstone"]
+	},
+{
+		"name": "Ravenreach",
+		"leaderName": "Nerissa Ravencroft",
+		"adjective": ["Ravenreach"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [146, 146, 173],
+		"innerColor": [30, 30, 36],
+		"uniqueName": "Nerizzler!",
+		"uniques": ["Influence of all other civilizations with all city-states degrades [+100]% faster","Provides [1] [Memes] <upon discovering a Natural Wonder>"],
+		"cities": ["Demon Sound","Harmonias","Echohaven","Ravenspire","Melodale","Chantwick","Sonomara"]
+	},
+{
 		"name": "Immerheim",
 		"leaderName": "Cecilia Immergreen",
 		"adjective": ["Ancient"],
@@ -132,7 +182,7 @@
 		"outerColor": [61, 8, 0],
 		"innerColor": [181, 255, 239],
 		"uniqueName": "Justice!",
-		"uniques": ["[+60]% Strength <vs [Barbarian] units>","[+35]% Strength <when fighting in [Friendly land] tiles>","Provides [1] [Memes] <upon discovering a Natural Wonder>"],
+		"uniques": ["[+60]% Strength <vs [Barbarian] units>","[+35]% Strength <when fighting in [Friendly land] tiles>","[+5]% Strength <when fighting in [Grassland] tiles>"],
 		"cities": ["Exardia","Bloodflames","Exardium","Diasmun","Justiceland","Avenger Land"]
 	},
 {
