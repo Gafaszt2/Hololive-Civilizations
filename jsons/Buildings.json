@@ -4,7 +4,53 @@
 		"cost": 1000,
 		"isNationalWonder": true,
 		"uniques": ["Consumes [250] [Fame]","Triggers a global alert upon build start",
-			"Hidden when [Fame] Victory is disabled", "Cannot be hurried"]
+			"Only available <when [Fame] Victory is enabled>", "Cannot be hurried"]
+	},
+	{
+		"name": "Galaxy Observatory",
+		"uniqueTo": "Cosmic Realm",
+		"uniques": ["[+20]% [Gold] [in this city]","[+20]% [Science] [in this city]","Consumes [5] [Fame]","Consumes [3] [Council Points]","Cost increases by [60] when built","Destroyed when the city is captured"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Astronomy"
+	},
+	{
+		"name": "Astral Observatory",
+		"uniqueTo": "Cosmic Realm",
+		"uniques": ["[+10]% Great Person generation [in this city]","[+20]% [Culture] [in this city]","Consumes [5] [Fame]","Consumes [3] [Council Points]","Cost increases by [60] when built","Destroyed when the city is captured"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Astronomy"
+	},
+	{
+		"name": "Sora Hall",
+		"uniqueTo": "Dreamland",
+		"replaces": "Garden",
+		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"hurryCostModifier": 25,
+		"gold": 2,
+		"faith": 1,
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Sakura Shrine",
+		"uniqueTo": "Cherry Japan",
+		"replaces": "Amphitheater",
+		"culture": 3,
+		"specialistSlots": {"Artist": 1},
+		"faith": 1,
+		"food": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
+	},
+	{
+		"name": "Dragon Monument",
+		"uniqueTo": "Draconia",
+		"replaces": "Monument",
+		"culture": 2,
+		"gold": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"uniques": ["Destroyed when the city is captured"]
 	},
 {
 		"name": "Hall of Mirrors",
@@ -224,7 +270,7 @@
                 "science": 1,
 		"faith": 7,
 		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [40] per owned city",
-			"[+125]% Natural religion spread [in this city]", "Hidden when religion is disabled", "Can only be built <in [Holy] cities>","Consumes [4] [Fame]"],
+			"[+125]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>","Consumes [4] [Fame]"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
@@ -391,7 +437,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
 {
 		"name": "Forest Camp",
@@ -535,7 +581,7 @@
         "science": 2,
         "gold": 1,
         "hurryCostModifier": 10,
-        "uniques": ["Hidden when espionage is disabled", "[-35]% enemy spy effectiveness [in this city]"],
+        "uniques": ["Only available <when espionage is enabled>", "[-35]% enemy spy effectiveness [in this city]"],
         "requiredBuilding": "Constabulary",
         "requiredTech": "Electricity"
     },
