@@ -7,6 +7,38 @@
 			"Only available <when [Fame] Victory is enabled>", "Cannot be hurried"]
 	},
 	{
+		"name": "Candy Garden",
+		"uniqueTo": "Candy Kingdom",
+		"culture": 1,
+		"replaces": "Garden",
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Sheep Market",
+		"uniqueTo": "Sheeps",
+		"replaces": "Market",
+		"gold": 2,
+		"food": 1,
+		"production": 1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Sky Mound",
+		"uniqueTo": "Celestial Workshop",
+		"replaces": "Mint",
+		"science": 1,
+		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]","[+1 Science] from [Gold Ore] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+	{
 		"name": "Galaxy Observatory",
 		"uniqueTo": "Cosmic Realm",
 		"uniques": ["[+20]% [Gold] [in this city]","[+20]% [Science] [in this city]","Consumes [5] [Fame]","Consumes [3] [Council Points]","Cost increases by [60] when built","Destroyed when the city is captured"],

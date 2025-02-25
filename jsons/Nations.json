@@ -1,5 +1,101 @@
 [
 	{
+		"name": "Candy Kingdom",
+		"leaderName": "Himemori Luna",
+		"adjective": ["Candy Kingdom"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [128, 0, 66],
+		"innerColor": [255, 196, 227],
+		"uniqueName": "Nnaaaaaa ",
+		"uniques": ["[+1 Culture] per [5] population [in all cities]","Empire enters golden age <upon gaining a [Great Artist] unit>","Empire enters golden age <upon gaining a [Great Merchant] unit>"],
+		"cities": ["Candy Heart",
+"FestivalLuna",
+"Apex Legends",
+"Motor Mouth",
+"Heterochromia",
+"Butler",
+"Sakura Taisen",
+"Lunatakoyaki"]
+	},
+    {
+		"name": "Celestial Workshop",
+		"leaderName": "Amane Kanata",
+		"adjective": ["Celestial Workshop"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [194, 221, 255],
+		"innerColor": [76, 95, 120],
+		"uniqueName": "PowerPoint Tenshi",
+		"uniques": ["[+2 Faith] from [Mountain] tiles [in all cities]","[+1 Science] from [Mountain] tiles [in capital] <during a Golden Age>"],
+		"cities": ["Good Sing",
+"Pop Team Epic",
+"Kabaya",
+"ORIO",
+"Bkub",
+"Gorilla",
+"Rabbits",
+"Soran Bushi"]
+	},
+	{
+		"name": "Sheeps",
+		"leaderName": "Tsunomaki Watame",
+		"adjective": ["Sheeps"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "I must destroy your lame civilization!",
+		"attacked": "What you think you are doing?! Baka!.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Ohayo!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [102, 102, 102],
+		"uniqueName": "Watame did nothing wrong",
+		"uniques": ["[+1 Gold, +1 Culture] from [Sheep] tiles [in all cities]","[+1 Culture] from [Sheep] tiles [in all cities] <during a Golden Age>"],
+		"cities": ["Farm",
+"Pastures",
+"Nothing Wrong",
+"Botan Hut",
+"Minecraft House",
+"Hills",
+"Iron Milk",
+"Sheep Hooves"]
+	},
+	{
 		"name": "Cosmic Realm",
 		"leaderName": "Tsukumo Sana",
 		"adjective": ["Cosmic Realm"],
