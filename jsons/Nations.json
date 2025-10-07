@@ -299,7 +299,7 @@
 		"outerColor": [255, 246, 217],
 		"innerColor": [77, 69, 58],
 		"uniqueName": "Chaser!",
-		"uniques": ["[+2 Science] from each Trade Route","[+1 Science, +2 Production] from each Trade Route <when above [30] Happiness>","[+1 Culture] from every specialist [in all cities]"],
+		"uniques": ["[+2 Science] from each Trade Route","[+1 Science, +2 Production] from each Trade Route <when above [30] [Happiness]>","[+1 Culture] from every specialist [in all cities]"],
 		"cities": ["Freeland","Non Prison Thing","Mighty","The Best City","Madagascar","Freesiaa"]
 	},
 {
@@ -324,7 +324,7 @@
 		"outerColor": [255, 107, 250],
 		"innerColor": [59, 1, 10],
 		"uniqueName": "Pop Culture!",
-		"uniques": ["[+1 Culture] from all [Culture] buildings","[+2 Culture] from all [Culture] buildings <when above [30] Happiness>","[+1 Gold] from every specialist [in all cities] <when above [30] Happiness>"],
+		"uniques": ["[+1 Culture] from all [Culture] buildings","[+2 Culture] from all [Culture] buildings <when above [30] [Happiness]>","[+1 Gold] from every specialist [in all cities] <when above [30] [Happiness]>"],
 		"cities": ["Romantic","Deluxe","Eu sea","Seu le Vie","Romance Land","Land of Love"]
 	},
 
@@ -357,8 +357,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [223, 221, 237],
-		"innerColor": [255, 107, 250],
+		"outerColor": [242, 205, 247],
+		"innerColor": [58, 31, 61],
 		"uniqueName": "BAU BAU!",
 		"uniques": ["[Great General] is earned [+25]% faster","[+100]% Yield from every [Great Improvement]","Provides [1] [Memes] <upon discovering a Natural Wonder>"],
 		"cities": ["Double Dog","Double Dragon","Dual Palace","Dual Hermitage","Land of Beaches","Land of Sigma"]
@@ -385,7 +385,7 @@
 		"outerColor": [61, 8, 0],
 		"innerColor": [181, 255, 239],
 		"uniqueName": "Justice!",
-		"uniques": ["[+60]% Strength <vs [Barbarian] units>","[+35]% Strength <when fighting in [Friendly land] tiles>","[+5]% Strength <when fighting in [Grassland] tiles>"],
+		"uniques": ["[+60]% Strength <vs [Barbarian] units>","[+35]% Strength <when fighting in [Friendly] tiles>","[+5]% Strength <when fighting in [Grassland] tiles>"],
 		"cities": ["Exardia","Bloodflames","Exardium","Diasmun","Justiceland","Avenger Land"]
 	},
 {
@@ -457,8 +457,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [247, 244, 233],
-		"innerColor": [237, 146, 7],
+		"outerColor": [255, 217, 79],
+		"innerColor": [26, 23, 15],
 		"uniqueName": "Investigation",
 		"uniques": ["[+1 Science] from all [Science] buildings","[+1 Gold] from all [Gold] buildings <after discovering [Electricity]>","Provides [2] [Whisky] <after discovering [Electricity]>","Provides [1] [Aluminum] <after discovering [Electricity]>"],
 		"cities": ["Whisky","Gale","Triumph","Elemental Sir","Gentleman","Sir Edmund"]
@@ -482,8 +482,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [8, 5, 13],
-		"innerColor": [99, 70, 156],
+		"outerColor": [29, 20, 41],
+		"innerColor": [201, 179, 230],
 		"uniqueName": "The Call of Takodachi",
 		"uniques": ["[+1 Culture] from [Coast] tiles [in all cities]","[+25]% Strength <for [Water] units>","Provides [2] [Coal] <after discovering [Industrialization]>"],
 		"cities": ["The First Call","The Warning","Tentacles","Takodachi","Total Takodachi","Soup"]
@@ -632,8 +632,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [217, 255, 237],
-		"innerColor": [22, 185, 250],
+		"outerColor": [0, 43, 8],
+		"innerColor": [176, 255, 229],
 		"uniqueName": "Attention please!",
 		"uniques": ["[+1] Movement <for [Great Composer] units>","[+1] Movement <for [Worker] units>","[+1] Movement <for [Gunpowder] units>","Provides [1] [Videogames] <upon conquering a city>"],
 		"cities": ["Scaredy","Fast Intiution","Sniping","The Dark Moon","The YABE","DJ City"]
@@ -707,8 +707,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [184, 247, 255],
-		"innerColor": [255, 46, 137],
+		"outerColor": [255, 214, 255],
+		"innerColor": [31, 105, 166],
 		"uniqueName": "Happy Synthesizer",
 		"uniques": ["[Great Artist] is earned [+33]% faster","[+2 Culture] from every [Landmark]","[+2 Gold] from every [Landmark]","Provides [1] [Videogames] <upon conquering a city>"],
 		"cities": ["Area 15","Kira Kira","Holofoi","Alien","New Paint","Art"]
@@ -732,7 +732,7 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [125, 85, 0],
+		"outerColor": [176, 69, 16],
 		"innerColor": [252, 251, 247],
 		"uniqueName": "Teacher's Forge",
 		"uniques": ["May buy [Great Pemaloe] units for [200] [Faith] [in all cities] at an increasing price ([100]) <hidden from users>","[+2 Production] in cities on [Hill] tiles","[+1 Production] from every [Mine]","Provides [1] [Videogames] <upon conquering a city>"],
@@ -782,8 +782,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [255, 255, 255],
-		"innerColor": [255, 115, 159],
+		"outerColor": [255, 71, 148],
+		"innerColor": [13, 4, 8],
 		"uniqueName": "Aristhocracy",
 		"uniques": ["[+2 Production] in cities on [Marsh] tiles","[+2 Gold] in cities on [River] tiles","[+2 Culture] in cities on [Hill] tiles","[+2 Science] in cities on [Desert] tiles","Provides [1] [Council Points] <upon entering a Golden Age>"],
 		"cities": ["Paradise","Noa","Zole","Waddle","Nimbus","Pockus"]
@@ -810,8 +810,15 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [250, 54, 15],
 		"uniqueName": "Total Disorder",
-		"uniques": ["[-1 Culture, +1 Production] from all [Culture] buildings","[-1 Gold, +1 Science] from all [Gold] buildings","[-1 Production, +1 Culture] from all [Production] buildings","[-1 Science, +1 Happiness] from all [Science] buildings"
-,"Provides [1] [Council Points] <upon entering a Golden Age>", "[+1 Faith] from every specialist [in all cities]"],
+		"uniques": [
+		"[+45]% [Science] [in all cities] <upon entering a new era> <for [5] turns> <with [5]% chance>",
+		"[+35]% [Culture] [in all cities] <upon entering a new era> <for [5] turns> <with [10]% chance>",
+		"[+25]% [Culture] [in all cities] <upon entering a new era> <for [5] turns> <with [30]% chance>",
+		"[+5]% [Culture] [in all cities] <upon entering a new era> <for [5] turns> <with [80]% chance>",
+		"[+90]% Production when constructing [All] buildings [in all cities] <upon entering a new era> <for [5] turns> <with [10]% chance>",
+		"[+50]% Production when constructing [All] buildings [in all cities] <upon entering a new era> <for [5] turns> <with [30]% chance>",
+		"[+20]% Production when constructing [All] buildings [in all cities] <upon entering a new era> <for [5] turns> <with [80]% chance>",
+        "Provides [1] [Council Points] <upon entering a Golden Age>"],
 		"cities": ["Crazy City","Total Nutiness","Plants vs Chaos","There is a Snake in my Boot","El Polle","Jam Zaam"]
 	},
 {
@@ -986,7 +993,7 @@
 		"outerColor": [28, 28, 28],
 		"innerColor": [237, 237, 237],
 		"uniqueName": "HoloX Founder",
-		"uniques": ["[-33]% maintenance cost for buildings [in all cities]","[+1 Production] from every [Strategic resource] <starting from the [Modern era]>","[+20]% Strength <for [Gunpowder] units>","Gifts of Gold to City-States generate [+10]% more Influence"],
+		"uniques": ["[-33]% maintenance cost for [all] buildings [in all cities]","[+1 Production] from every [Strategic resource] <starting from the [Modern era]>","[+20]% Strength <for [Gunpowder] units>","Gifts of Gold to City-States generate [+10]% more Influence"],
 		"cities": ["HoloX","Skyscrapper","Center of Cruelty","Tyrany","New Dawn","Power of the Forbidden"]
 	},
 {
@@ -1036,7 +1043,7 @@
 		"outerColor": [34, 43, 36],
 		"innerColor": [228, 237, 230],
 		"uniqueName": "Murderer",
-		"uniques": ["[-50]% maintenance cost for buildings [in all cities]","All newly-trained [Melee] units [in all cities] receive the [Murder] promotion"],
+		"uniques": ["[-50]% maintenance cost for [all] buildings [in all cities]","All newly-trained [Melee] units [in all cities] receive the [Murder] promotion"],
 		"cities": ["Below Surface","Deep Cruelty","Oceanic Ground","Orca Palace","Money Statue","Oceanic Boundaries"]
 	},
 {
@@ -1208,8 +1215,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [250, 249, 225],
-		"innerColor": [181, 179, 101],
+		"outerColor": [255, 255, 255],
+		"innerColor": [21, 23, 117],
 		"uniqueName": "Swan",
 		"uniques": ["[+2 Faith] from every [Lakes]","[+1 Science] from every [Lakes] <starting from the [Modern era]>","[+1 Faith] from every [Bonus resource] <starting from the [Medieval era]>","Provides [1] [Fame] <upon discovering a Natural Wonder>"],
 		"cities": ["Stellar Symphony","Shashimio","Negi u No Panaiuta", "Tsubasa"]
@@ -1233,8 +1240,8 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [250, 57, 40],
-		"innerColor": [252, 225, 222],
+		"outerColor": [255, 255, 255],
+		"innerColor": [179, 20, 20],
 		"uniqueName": "Ohapol!",
 		"uniques": ["[+1 Happiness] from every [Bonus resource]","[+2 Culture] from every [Circus]","[+2 Happiness] from every [Circus]","Provides [1] [Fame] <upon constructing [Circus]>"],
 		"cities": ["Dreaming Days","Shijosugi Adtruck","Stardust","Tears of the Moon","Fujun Mujun","Astro","Hologram Circus","Pastel Tea Time"]
