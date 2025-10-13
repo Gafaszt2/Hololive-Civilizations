@@ -7,6 +7,21 @@
 			"Only available <when [Fame] Victory is enabled>", "Cannot be hurried"]
 	},
 	{
+		"name": "Tomato Farm",
+		"uniqueTo": "Echoes",
+		"replaces": "Granary",
+		"food": 2,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[+2 Gold] per [8] social policies adopted",
+			"[+2 Food] per [4] social policies adopted",
+			"[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
 		"name": "Candy Garden",
 		"uniqueTo": "Candy Kingdom",
 		"culture": 1,

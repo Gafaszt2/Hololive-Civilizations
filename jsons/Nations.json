@@ -1,5 +1,37 @@
 [
 	{
+		"name": "Echoes",
+		"leaderName": "Dokibird",
+		"adjective": ["Echoes"],
+		"startBias": ["Coast","Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "Jingle jangle",
+		"attacked": "1hp and a dream.",
+		"defeated": "Sometimes I want to flex a little. I want to flex my past self, what I used to be able to do. Now I can't do it anymore, but that's okay. I still have my memories, and that's all that matters now.",
+		"introduction": "Cave diving. So they're like cave diving. You know like those who dive in f-ing caves and there's water in there and everything. And then like. Yeah, start diving in caves. You know?",
+		
+		"neutralHello": "99% of gamblers quit before they hit it..",
+		"hateHello": "You know what, I need more stress in my life. It's not like I cried like yesterday because I was so stressed out.",
+		
+		"tradeRequest": "You know, like they they'll throw some scraps on the floor and then they're like, 'Eat it.' And I'm like, 'Oh, you're so kind to me, Daft Punk.",
+				
+		"outerColor": [255, 218, 130],
+		"innerColor": [135, 11, 11],
+		"uniqueName": "Phantom Thief",
+		"uniques": ["Free Great Person <upon declaring friendship> <with [5]% chance>",
+	    "Gain a free [Library] [in capital] <upon adopting [Tradition]> <with [5]% chance>",
+		"[+33]% [Culture] from every [Monument]",
+		"[+13]% [Food] from every [Farm]","[+9]% [Production] from every [Camp]",
+		"[+23]% [Production] from every [Strategic resource] <upon conquering a city> <for [7] turns> <with [15]% chance>",
+		"Free [Dragoon] appears <upon founding a Pantheon> <with [7]% chance>",
+		"Free [Dragoon] appears <upon constructing [Wonder] [in all cities]> <with [25]% chance>",
+	    "Free [Dragoon] appears <upon conquering a city> <with [15]% chance>"],
+		"cities": ["Dragoon's Roost","Maplehold","Echospire","Apex Reach","Trickster's Nest","Hypehaven","FPS Hollow","Dokiheim","VTube Vale"]
+	},
+	{
 		"name": "Candy Kingdom",
 		"leaderName": "Himemori Luna",
 		"adjective": ["Candy Kingdom"],

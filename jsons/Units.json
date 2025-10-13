@@ -10,6 +10,22 @@
 		"movement": 3
 	},
 	{
+		"name": "Dragoon",
+		"uniqueTo": "Echoes",
+        "replaces": "Horseman",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 12,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["[+10]% Strength bonus for [Ranged] units within [2] tiles",
+			"All adjacent units heal [+3] HP when healing","Can be earned through combat <for [Land] units>","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+	{
 		"name": "Happy Cloud",
 		"uniqueTo": "Celestial Workshop",
         "replaces": "Guided Missile",
